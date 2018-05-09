@@ -1,2 +1,1 @@
-# javaassignment2
-java
+# java-assignment2
